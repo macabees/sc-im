@@ -1,5 +1,5 @@
 # SC-IM
-The 'sc-im' command spreadsheet calculator for the console that uses ncurses.
+The 'sc-im' command spreadsheet calculator for the console that uses n-curses.
 
 ## SC-IM (Project Info)
 [Website](https://github.com/andmarti1424/sc-im)
