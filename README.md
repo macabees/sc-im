@@ -19,9 +19,8 @@ The 'sc-im' command spreadsheet calculator for the console that uses ncurses.
 Note: requires `docker login`
 
 ## Notes
-| Basic Key         | Commands                              |
+| Basic Key(s)      | Commands/Function                     |
 | ----------------- | ------------------------------------- |
-| Key(s)            | Function                              |
 | ?                 | help (super helpful!)                 |
 | Arrows or h,j,k,l | move cursor                           |
 | Ctrl-A            | move to top-left cell (A0)            |
