@@ -26,7 +26,7 @@ Note: requires `docker login`
 | Arrows or h,j,k,l | move cursor                           |
 | Ctrl-A            | move to top-left cell (A0)            |
 | =                 | insert a number or formula            |
-| <, \, >           | insert left/center/right aligned text |
+| <, \\, >          | insert left/center/right aligned text |
 | {, \|, }          | align existing text left/center/right |
 | e, E              | edit number/string value              |
 | x, Del            | clear cell                            |
